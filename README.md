@@ -1,4 +1,6 @@
 talentsflow
 ===========
+<img src="https://cloud.githubusercontent.com/assets/177648/10727091/940180b4-7bf0-11e5-88c5-11d6bd2324bf.jpg" width="18%"></img> 
 
-talentflow
+[Visit talentflow!](http://www.talentsflow.com)
+
